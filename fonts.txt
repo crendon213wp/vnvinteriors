@@ -1,0 +1,9 @@
+font-family: 'Great Vibes', cursive;
+font-family: 'Sacramento', cursive;
+font-family: 'Tangerine', cursive;
+font-family: 'Parisienne', cursive;
+font-family: 'Playball', cursive;
+font-family: 'Alex Brush', cursive;
+font-family: 'Niconne', cursive;
+
+<link href="https://fonts.googleapis.com/css?family=Alex+Brush|Great+Vibes|Niconne|Parisienne|Playball|Sacramento|Tangerine&display=swap" rel="stylesheet">

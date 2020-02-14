@@ -1,0 +1,80 @@
+#footerSection {
+	background: black;
+}
+
+.hr-1 {
+    width: 42%;
+    border-top: 1px solid #000;
+}
+
+/*font-face*/
+@font-face {
+font-family: 'Brock Script';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/BrockScript.woff') format('woff');
+}
+
+.header {
+  text-shadow: 6px 3px 3px #dcdcdc;
+}
+
+.header h1 {
+	font-family: 'Brock Script';
+	font-size: 3.25rem;
+}
+
+.navbar-nav li {
+    font-size: 1.125rem;
+}
+
+/*Carousel Section*/
+
+.carousel-caption {
+	margin-bottom: 7%;
+}
+
+.drk:after {
+    content:"";
+    display:block;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background:#000;
+    opacity:0.4;
+}
+
+.ccb {
+    background: rgba(0,0,0,0.6);
+}
+
+/*About Us Section*/
+
+#square-a1 {
+    background-image: url('../assets/img/about-2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+p {
+    font-size: 20px !important;
+}
+
+.first-section h1 a {
+    text-decoration: none !important;
+    color: #000 !important;
+}
+
+.first-section h5 {
+    letter-spacing: 2px !important;
+}
+
+#gallerySection img {
+    padding: 0.625rem 1rem !important;
+}
